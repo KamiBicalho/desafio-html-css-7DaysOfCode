@@ -1,0 +1,15 @@
+@import url(/styles/reset.css);
+@import url(/styles/header.css);
+
+:root {
+    --cor-titulo: #101828;
+    --cor-texto: #667085;
+
+    --fonte-principal: 'Inter', sans-serif;
+}
+
+
+body {
+    margin: 0 8vw;
+    font-family: var(--fonte-principal);
+}
