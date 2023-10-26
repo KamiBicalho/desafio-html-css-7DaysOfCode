@@ -1,9 +1,14 @@
 @import url(/styles/reset.css);
 @import url(/styles/header.css);
+@import url(/styles/sections.css);
 
 :root {
     --cor-titulo: #101828;
     --cor-texto: #667085;
+    --cor-principal: #3A404E;
+    --cor-botao: #8E2424;
+    --cor-link: #667085;
+    --branco: #ffffff;
 
     --fonte-principal: 'Inter', sans-serif;
 }
@@ -12,4 +17,6 @@
 body {
     margin: 0 8vw;
     font-family: var(--fonte-principal);
+    font-size: 1rem;
+    font-weight: 400;
 }
