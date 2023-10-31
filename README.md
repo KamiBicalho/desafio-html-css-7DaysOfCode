@@ -3,12 +3,13 @@
 ## 📜 Projeto
 Uma empresa de TI quer desenvolver uma página destinada a novas contratações e contratou você para desenvolvê-la.
 
-## ⏳ Status: em progresso (2/7)
+## ⏳ Status: em progresso (4/7)
 Dia 1 - Desenvolver o cabeçalho da aplicação.
 Dia 2 - Criação da primeira seção da página.
 Dia 3 - Criação da seção de métricas.
+Dia 4 - Criação da seção de vagas.
 
-![Captura de tela 2023-10-27 131448](https://github.com/KamiBicalho/jogo-de-atravessar/assets/132604923/a1bb1e3f-f18d-4bd2-980a-00fd5c71b9a0)
+![Captura de tela 2023-10-30 223825](https://github.com/KamiBicalho/desafio-responsividade-7DaysOfCode/assets/132604923/f3159d0f-0ee9-4b58-8c07-b8994598bedc)
 
 ## ⌨️ Linguagens
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)

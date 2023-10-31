@@ -26,6 +26,7 @@
 .container__metricas {
     display: flex;
     justify-content: space-between;
+    margin-bottom: 6rem;
 }
 
 .container__metricas__box {
@@ -49,4 +50,32 @@
 .container__metricas__paragrafo {
     color: var(--cor-texto);
     line-height: 1.5rem;
+}
+
+.container__vagas {
+    margin: 6rem 8vw 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.container__vagas__anuncio {
+    padding: 0.25rem 0.75rem;
+    border-radius: 2in;
+    background-color: rgba(142, 36, 36, 0.05);
+    line-height: 1.2rem;
+    color: var(--cor-botao);
+    margin: auto;
+    font-weight: 500;
+}
+
+.container__vagas__titulo {
+    font-weight: 600;
+    font-size: 2.25rem;
+    padding: 1.2rem;
+}
+
+.container__imagem{
+    margin: 4rem 0;
 }
