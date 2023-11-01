@@ -60,10 +60,11 @@
     text-align: center;
 }
 
-.container__vagas__anuncio {
+.container__vagas__anuncio,
+.container__depoimento__anuncio {
     padding: 0.25rem 0.75rem;
     border-radius: 2in;
-    background-color: rgba(142, 36, 36, 0.05);
+    background-color: var(--cor-fundo);
     line-height: 1.2rem;
     color: var(--cor-botao);
     margin: auto;
@@ -115,5 +116,43 @@
 .container__vagas__lista__descricao {
     display: flex;
     gap: 1.5rem;
-    color: var(--cor-link);
+    color: var(--cor-texto);
+}
+
+.container__depoimento {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    padding: 4rem;
+    border-radius: 1rem;
+    background-color: var(--cor-fundo);
+    margin: 2rem 0 6rem;
+}
+
+.container__depoimento__texto {
+    font-size: 2.25rem;
+    font-weight: 500;
+    line-height: 125%;
+    letter-spacing: -0.045rem;
+    padding: 1rem;
+
+}
+
+.container__depoimento__avatar {
+    width: 3.5rem;
+    height: 3.5rem;
+    padding: 1rem;
+    margin: 0 auto;
+}
+
+.container__depoimento__colaboradora {
+    font-weight: 500;
+    line-height: 150%;
+}
+
+.container__depoimento__colaboradora__cargo {
+    font-size: 0.875rem;
+    line-height: 140%;
+    color: var(--cor-texto);
 }
