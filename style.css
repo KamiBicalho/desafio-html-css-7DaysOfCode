@@ -1,6 +1,7 @@
 @import url(/styles/reset.css);
 @import url(/styles/header.css);
 @import url(/styles/sections.css);
+@import url(/styles/footer.css);
 
 :root {
     --cor-titulo: #101828;
@@ -10,6 +11,7 @@
     --cor-link: #667085;
     --branco: #ffffff;
     --cor-borda: #EAECF0;
+    --cor-borda-rodape: #D0D5DD;
     --cor-fundo: rgba(142, 36, 36, 0.05);
 
     --fonte-principal: 'Inter', sans-serif;
